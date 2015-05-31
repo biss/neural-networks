@@ -1,2 +1,2 @@
 # neural-networks
-Natural network project repo
+Natural network project repository
